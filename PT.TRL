@@ -1,0 +1,37 @@
+Portuguàs
+File not found.
+Ficheiro inexistente.
+Help file not found.
+O ficheiro da ajuda n∆o foi encontrado.
+Unknown command
+Comando inv†lido
+File loaded sucessfully.
+Ficheiro aberto com exito.
+File saved sucessfully.
+Ficheiro guardado.
+help.hlp
+pthelp.hlp
+Error: Division by zero
+Erro: Divis∆o por zero
+# Se tambÇm quiser ver os comandos do SS traduzidos para portuguàs retire
+# os #s nas linhas seguintes:
+#translate
+#traducao
+#load
+#abrir
+#save
+#guardar
+#quit
+#sair
+#help
+#ajuda
+#change
+#mudar
+#width
+#largura
+#height
+#altura
+#backgroundcolor
+#fundo
+#textcolor
+#cor
