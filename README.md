@@ -88,7 +88,7 @@ SS supports various operators. To use them, prefix a cell value with the '=' cha
 |-|3rd|Subtraction|Subtracts two cells|=d1-d10|
 |>|4th|Relational >|Compares two cells, returning 1 if the first cell has a higher value than the second or 0 otherwise|=a1\>a2|
 |<|4th|Relational <|Compares two cells, returning 1 if the first cell has a lower value than the second or 0 otherwise|=a1\<a2|
-|=|4th|Relational =|Compares two cells, returning 1 if the first cell has a  value equal to the second or 0 otherwise|=a1\<a2|
+|=|4th|Relational =|Compares two cells, returning 1 if the first cell has a  value equal to the second or 0 otherwise|=a1=a2|
 |!|4th|Relational ≠|Compares two cells, returning 1 if the first cell has a  different value compared to the second or 0 otherwise|=a1\!a2|
 |&|5th|Logical AND|Returns 1 if both operands' values are different than 0, or 0 otherwise|=a10=a12&c10=c12|
 |\||5th|Logical OR|Returns 1 if any of the operands' values are different than 0, or 0 otherwise|=a10=a12\|c10=c12|
