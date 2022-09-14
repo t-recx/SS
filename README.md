@@ -104,22 +104,22 @@ SS supports various operators. To use them, prefix a cell value with the '=' cha
 
 ### Colours
 
-- ![Black](https://via.placeholder.com/15/000000/000000?text=+) Black
-- ![Blue](https://via.placeholder.com/15/0000FF/000000?text=+) Blue
-- ![Green](https://via.placeholder.com/15/008000/000000?text=+) Green
-- ![Cyan](https://via.placeholder.com/15/00FFFF/000000?text=+) Cyan
-- ![Red](https://via.placeholder.com/15/FF0000/000000?text=+) Red
-- ![Magenta](https://via.placeholder.com/15/FF00FF/000000?text=+) Magenta
-- ![Brown](https://via.placeholder.com/15/964B00/000000?text=+) Brown
-- ![LightGray](https://via.placeholder.com/15/C0C0C0/000000?text=+) LightGray
-- ![DarkGray](https://via.placeholder.com/15/808080/000000?text=+) DarkGray
-- ![LightBlue](https://via.placeholder.com/15/add8e6/000000?text=+) LightBlue
-- ![LightGreen](https://via.placeholder.com/15/90ee90/000000?text=+) LightGreen
-- ![LightCyan](https://via.placeholder.com/15/e0ffff/000000?text=+) LightCyan
-- ![LightRed](https://via.placeholder.com/15/ffcccb/000000?text=+) LightRed
-- ![LightMagenta](https://via.placeholder.com/15/ff80ff/000000?text=+) LightMagenta
-- ![Yellow](https://via.placeholder.com/15/FFFF00/000000?text=+) Yellow
-- ![White](https://via.placeholder.com/15/FFFFFF/000000?text=+) White
+- Black
+- Blue
+- Green
+- Cyan
+- Red
+- Magenta
+- Brown
+- LightGray
+- DarkGray
+- LightBlue
+- LightGreen
+- LightCyan
+- LightRed
+- LightMagenta
+- Yellow
+- White
 
 ### Chart types
 
